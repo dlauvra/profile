@@ -1,0 +1,13 @@
+.cap {
+    position: absolute;
+    margin:5% 35% 0 35%;
+    width:30%;
+    height:40%;
+    min-width: 900px;
+    min-height: 500px;
+}
+
+.intro{
+    min-height: 100vh;
+    position: relative;
+}
